@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+fuzzywuzzy
+python-Levenshtein
+openpyxl
+pytesseract
+Pillow
